@@ -1,4 +1,4 @@
-# Hotel Bokkings
+# Hotel Bookings
 When Are going to be cancelled?
 
 
